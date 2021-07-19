@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello there, I am Naufal 👋
+- 🌱 I’m currently learning MERN stacks
+- 📫 How to reach me: **naufalaldyp@gmail.com**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzkz23&layout=compact&theme=tokyonight)](https://github.com/blitzkz23/github-readme-stats)
+
+![Naufal Aldy's GitHub stats](https://github-readme-stats.vercel.app/api?username=blitzkz23&show_icons=true&theme=tokyonight)
 
 <!--
 **blitzkz23/blitzkz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
