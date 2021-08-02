@@ -1,5 +1,5 @@
 # Hello there, I am Naufal 👋
-- 🌱 I’m currently learning MERN stacks
+- 🌱 I’m currently learning Android development & MERN stacks
 - 📫 How to reach me: **naufalaldyp@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzkz23&layout=compact&theme=tokyonight)](https://github.com/blitzkz23/github-readme-stats)
