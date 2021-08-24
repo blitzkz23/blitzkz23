@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Android development & MERN stacks
 - 📫 How to reach me: **naufalaldyp@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=blitzkz23&color=blue)
+![](https://komarev.com/ghpvc/?username=blitzkz23&color=blue) <img alt="GitHub followers" src="https://img.shields.io/github/followers/blitzkz23?style=social"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzkz23&layout=compact&theme=tokyonight)](https://github.com/blitzkz23/github-readme-stats)
 
