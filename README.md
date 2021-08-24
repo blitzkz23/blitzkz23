@@ -4,10 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=blitzkz23&color=blue) <img alt="GitHub followers" src="https://img.shields.io/github/followers/blitzkz23?style=social"/>
 
-<h3>Language Used: </h3>
+<h3>Language and Tools: </h3>
 <p>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzkz23&layout=compact&theme=tokyonight)](https://github.com/blitzkz23/github-readme-stats)
