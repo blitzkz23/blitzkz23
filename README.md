@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning Android development(both native and cross platform using flutter)
 - 📫 How to reach me: **naufalaldyp@gmail.com**
+- ⚡ Fun fact: (Disclaimer) not my catto
 
 ![](https://komarev.com/ghpvc/?username=blitzkz23&color=blue) <img alt="GitHub followers" src="https://img.shields.io/github/followers/blitzkz23?style=social"/>
 
@@ -40,5 +41,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
