@@ -1,4 +1,4 @@
-# Hello there, I am Naufal 👋
+# Hello there, I am Naufal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 - 🌱 I’m currently learning Android development(both native and cross platform using flutter)
 - 📫 How to reach me: **naufalaldyp@gmail.com**
 
