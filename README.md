@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/blitzkz23/blitzkz23/master/catcoding.gif" alt="code" width="360" height="360">
 
 - 🌱 I’m currently learning Android development(both native and cross platform using flutter)
+- 🔭 I’m currently working on improving myself and make a portofolio
 - 📫 How to reach me: **naufalaldyp@gmail.com**
 - ⚡ Fun fact: (Disclaimer) not my catto
 
@@ -34,7 +35,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
