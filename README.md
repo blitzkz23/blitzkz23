@@ -1,4 +1,4 @@
-### Hello there, I am Naufal <img src = "https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width = 40px />
+### Hello there, I am Naufal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <img src="https://raw.githubusercontent.com/blitzkz23/blitzkz23/master/catcoding.gif" alt="code" width="360" height="360">
 
 - 🌱 I’m currently learning Android development(both native and cross platform using flutter)
