@@ -26,8 +26,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>  
 </p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzkz23&layout=compact&theme=tokyonight&langs_count=6&hide=python,jupyter%20notebook,powershell) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzkz23&layout=compact&theme=tokyonight&langs_count=6&hide=powershell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzkz23&layout=compact&theme=tokyonight&langs_count=6&hide=python,jupyter%20notebook,powershell)
 ![Naufal Aldy's GitHub stats](https://github-readme-stats.vercel.app/api?username=blitzkz23&show_icons=true&theme=tokyonight)
 
 <!--
