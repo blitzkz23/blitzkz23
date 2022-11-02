@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Android development(both native and cross platform using flutter)
 - 🔭 I’m currently working on improving myself and make a portofolio
-- 📫 How to reach me: **naufalaldyp@gmail.com**
+- 📫 How to reach me: **naufaldystd@gmail.com**
 - ⚡ Fun fact: (Disclaimer) not my catto
 
 ![](https://komarev.com/ghpvc/?username=blitzkz23&color=blue) <img alt="GitHub followers" src="https://img.shields.io/github/followers/blitzkz23?style=social"/>
