@@ -1,7 +1,9 @@
 ### Hello there, I am Naufal 👋
 <img src="https://raw.githubusercontent.com/blitzkz23/blitzkz23/master/catcoding.gif" alt="code" width="360" height="360">
 
-- 🌱 I’m currently learning Android development(both native and cross platform using flutter)
+![Codewars](https://www.codewars.com/users/blitzkz23/badges/large)
+
+- 🌱 I’m currently learning data-related stuffs
 - 🔭 I’m currently working on improving myself and make a portofolio
 - 📫 How to reach me: **naufaldystd@gmail.com**
 - ⚡ Fun fact: (Disclaimer) not my catto
